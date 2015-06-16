@@ -1,0 +1,45 @@
+views:
+    layout:
+        bannersadmin: Administrator
+    index:
+        filters: Filter
+        filter: Filter
+        reset: Zurücksetzen
+        list: %entity% list
+        actions: Aktionen
+        createnew: Erstelle eine neue
+        pagprev: '&larr; zurück'
+        pagnext: 'weiter &rarr;'
+        actions: Aktionen
+    actions:
+        show: anzeigen
+        edit: bearbeiten
+    recordactions:
+        backtothelist: Zurück zur Übersicht
+        edit: Bearbeiten
+        delete: Löschen
+        confirm: Eintrag löschen?
+    new:
+        creation: Erstelle %entity%
+        create: Erstellen
+        save: Speichern
+        saveAndAdd: Speichern und hinzufügen
+    edit:
+        edit: Bearbeite %entity%
+        editbutton: Bearbeiten
+    show:
+        show: Zeige %entity%
+
+flash:
+    create:
+        success: Eintrag wurde erfolgreich hinzugefügt.
+        error: Es trat ein Fehler beim Hinzufügen des Eintrags auf.
+    update:
+        success: Eintrag wurde erfolgreich bearbeitet.
+        error: Es trat ein Fehler beim Bearbeiten des Eintrags auf.
+    delete:
+        success: Eintrag wurde erfolgreich gelöscht.
+        error: Es trat ein Fehler beim Löschen des Eintrags auf.
+
+ROLE_ADMIN: Administrator
+ROLE_USER: User
