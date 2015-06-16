@@ -3,7 +3,7 @@
 namespace kollegeJack\Bundle\CrudGeneratorBundle\Command;
 
 use Sensio\Bundle\GeneratorBundle\Command\GenerateDoctrineCrudCommand;
-use MWSimple\Bundle\CrudGeneratorBundle\Generator\MWSimpleCrudGenerator;
+use kollegeJack\Bundle\CrudGeneratorBundle\Generator\MWSimpleCrudGenerator;
 use Symfony\Component\HttpKernel\Bundle\BundleInterface;
 
 /**

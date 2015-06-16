@@ -51,7 +51,7 @@ Add it to the `AppKernel.php` class:
 
 ```php
 	// ...
-	new MWSimple\Bundle\CrudGeneratorBundle\MWSimpleCrudGeneratorBundle(),
+	new kollegeJack\Bundle\CrudGeneratorBundle\MWSimpleCrudGeneratorBundle(),
 	new Knp\Bundle\PaginatorBundle\KnpPaginatorBundle(),
 	new Lexik\Bundle\FormFilterBundle\LexikFormFilterBundle(),
 ```
