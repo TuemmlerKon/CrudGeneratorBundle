@@ -1,6 +1,6 @@
 <?php
 
-namespace MWSimple\Bundle\CrudGeneratorBundle\Generator;
+namespace kollegeJack\Bundle\CrudGeneratorBundle\Generator;
 
 use Sensio\Bundle\GeneratorBundle\Generator\DoctrineCrudGenerator;
 use Symfony\Component\HttpKernel\Bundle\BundleInterface;

@@ -1,6 +1,6 @@
 <?php
 
-namespace MWSimple\Bundle\CrudGeneratorBundle\Command;
+namespace kollegeJack\Bundle\CrudGeneratorBundle\Command;
 
 use Sensio\Bundle\GeneratorBundle\Command\GenerateDoctrineCrudCommand;
 use MWSimple\Bundle\CrudGeneratorBundle\Generator\MWSimpleCrudGenerator;

@@ -1,8 +1,7 @@
 <?php
-namespace MWSimple\Bundle\CrudGeneratorBundle;
+namespace kollegeJack\Bundle\CrudGeneratorBundle;
 
 use Symfony\Component\HttpKernel\Bundle\Bundle;
 
-class MWSimpleCrudGeneratorBundle extends Bundle
-{
+class MWSimpleCrudGeneratorBundle extends Bundle {
 }
